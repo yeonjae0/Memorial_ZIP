@@ -18,7 +18,7 @@
 
 ## 3. 데이터베이스 모델링
 
-미처 다 준비하지 못했다.
+<img width="997" alt="스크린샷 2023-06-11 오후 5 25 18" src="https://github.com/jaesekim/Memorial_ZIP/assets/107056122/983932c1-8ab5-4178-a9ad-b3520231bffa">
 
 ## 4. 영화 추천 알고리즘
 
